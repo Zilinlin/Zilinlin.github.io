@@ -15,14 +15,27 @@ I am currently a Ph.D. student in the [Department of Computer Science](https://w
 
 I received my Bachelor's Degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022, where I was working with [Professor. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/).
 
+My research interests lie in the area of **Network Security**. I am working on projects that use formal verification to enhance the security of Wi-Fi protocol.  
+
 
 Education
 ======
 - PhD in Computer Science, Purdue University, 2022-present
 - B.E. in Software Engineering, Tsinghua University, 2018-2022
 
+Publications
+======
+- **Title:** Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode
+  - **Authors:** Zilin Shen, Imtiaz Karim, Elisa Bertino
+  - **Published in:** AsiaCCS' 2024
+  - **Link:** [PDF](https://arxiv.org/pdf/2312.07877.pdf)
 
-Getting started
+- **Title:** Combating link dynamics for reliable lora connection in urban settings
+  - **Authors:** Shuai Tong, Zilin Shen, Yunhao Liu, Jiliang Wang
+  - **Published in:** MobiCom' 2021
+  - **Link:** [PDF](URL_to_PDF)
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -53,4 +66,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
