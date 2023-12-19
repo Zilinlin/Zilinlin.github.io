@@ -25,13 +25,13 @@ Education
 
 Publications
 ======
-- **Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode**
+- **Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode** <br>
   **Zilin Shen**, Imtiaz Karim, Elisa Bertino <br>
    ACM ASIA Conference on Computer and Communications Security (AsiaCCS' 2024) <br>
    (accpetance rate: 65/301=21%) <br> 
   **Link:** [PDF](https://arxiv.org/pdf/2312.07877.pdf)
 
-- **Combating link dynamics for reliable lora connection in urban settings**
+- **Combating link dynamics for reliable lora connection in urban settings** <br>
   Shuai Tong, **Zilin Shen**, Yunhao Liu, Jiliang Wang <br> 
   Proceedings of the 27th Annual International Conference on Mobile Computing and Networking (MobiCom' 2021) <br> 
   **Link:** [PDF](https://dl.acm.org/doi/pdf/10.1145/3447993.3483250)
@@ -40,6 +40,7 @@ Publications
 Awards 
 ======
 Andrew's fellowship, Purdue Univerity, funding from 2022 to 2026
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)

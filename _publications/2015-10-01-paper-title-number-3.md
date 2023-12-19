@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
+### Publications
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+#### 1. Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode
+- **Authors:** Zilin Shen, Imtiaz Karim, Elisa Bertino
+- **Published in:** ACM ASIA Conference on Computer and Communications Security (AsiaCCS’ 2024)
+- **Link:** [PDF](https://arxiv.org/pdf/2312.07877.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+#### 2. Combating link dynamics for reliable lora connection in urban settings
+- **Authors:** Shuai Tong, Zilin Shen, Yunhao Liu, Jiliang Wang
+- **Published in:** Proceedings of the 27th Annual International Conference on Mobile Computing and Networking (MobiCom’ 2021)
+- **Link:** [PDF](https://dl.acm.org/doi/pdf/10.1145/3447993.3483250)
+
