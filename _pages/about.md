@@ -15,7 +15,7 @@ I am currently a Ph.D. student in the [Department of Computer Science](https://w
 
 I received my Bachelor's Degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022, where I was working with [Professor. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/).
 
-My research interests lie in the area of **Network Security**. I am working on projects that use formal verification to enhance the security of Wi-Fi protocol.  
+My research interests lie in the general area of **network security**. More specifically, my focus is on analyzing the security and privacy of wireless communication protocols with respect to their documentation design and implementation. The methods used include formal verification and protocol fuzzing. 
 
 
 Education
@@ -23,8 +23,17 @@ Education
 - PhD in Computer Science, Purdue University, 2022-present
 - B.E. in Software Engineering, Tsinghua University, 2018-2022
 
+Work Experience
+======
+- Network Security Research Intern, Cisco, 2024 Summer
+
 Publications
 ======
+- **IoTWiFiVerifier: Scalable Security Analysis and Verification of IoT Wi-Fi Protocol** <br>
+  **Zilin Shen**, Imtiaz Karim, Elisa Bertino <br>
+   under submission <br>
+
+
 - **Segment-Based Formal Verification of WiFi Fragmentation and Power Save Mode** <br>
   **Zilin Shen**, Imtiaz Karim, Elisa Bertino <br>
    ACM ASIA Conference on Computer and Communications Security (AsiaCCS' 2024) <br>
@@ -39,7 +48,7 @@ Publications
 
 Awards 
 ======
-Andrew's fellowship, Purdue Univerity, funding from 2022 to 2026
+Andrew's fellowship, Purdue Univerity, funding from 2022 to 2024
 
 <!-- Getting started
 ======
