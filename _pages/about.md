@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 申子琳 | PhD Student @ <a href='https://www.cs.purdue.edu/'>Purdue CS</a> | Founding Engineer @ <a href='https://eigen.ai/'>Eigen AI</a>
+subtitle: 申子琳 | PhD Candidate @ <a href='https://www.cs.purdue.edu/'>Purdue CS</a> | Founding Engineer @ <a href='https://eigen.ai/'>Eigen AI</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. student in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Elisa Bertino](https://www.cs.purdue.edu/homes/bertino/). My research focuses on **protocol security** and **formal verification**.
+I am a Ph.D. candidate in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Elisa Bertino](https://www.cs.purdue.edu/homes/bertino/). My research focuses on **protocol security** and **formal verification**.
 
 I am also a **Founding Engineer** at [Eigen AI](https://eigen.ai/), where I work on LLM infrastructure, including serving optimization, CUDA kernel development, and production deployment.
 
