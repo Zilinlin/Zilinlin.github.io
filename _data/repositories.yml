@@ -1,0 +1,9 @@
+github_users:
+  - Zilinlin
+
+repo_description_lines_max: 2
+
+github_repos:
+  - Zilinlin/tiny-trtllm
+  - Zilinlin/fp4-attention-kernel
+  - Zilinlin/MCPSec
