@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Lawson Computer Science Building</p>
-    <p>Purdue University</p>
-    <p>West Lafayette, IN 47907</p>
+    <p>shen624@purdue.edu</p>
 
 selected_papers: true
 social: true
@@ -27,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. candidate in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Elisa Bertino](https://www.cs.purdue.edu/homes/bertino/). My research focuses on **protocol security** and **formal verification**.
+I am a Ph.D. candidate in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Elisa Bertino](https://www.cs.purdue.edu/homes/bertino/). My research focuses on **protocol security**, **formal verification**, and **LLM security**.
 
 I am also a **Founding Engineer** at [Eigen AI](https://eigen.ai/), where I work on LLM infrastructure, including serving optimization, CUDA kernel development, and production deployment.
 
@@ -37,7 +35,7 @@ Previously, I received my B.E. from [Tsinghua University](https://www.tsinghua.e
 
 ## Experience
 
-- **Founding Engineer**, [Eigen AI](https://eigen.ai/), 2024 - Present
+- **Founding Engineer**, [Eigen AI](https://eigen.ai/), Aug 2024 - Present
   - LLM serving infrastructure and optimization
   - CUDA kernel development (FP4 Attention for B200)
   - Production deployment with Kubernetes and Kong Gateway
