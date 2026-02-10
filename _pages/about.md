@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ <a href='https://www.cs.purdue.edu/'>Purdue CS</a> | Founding Engineer @ <a href='https://eigen.ai/'>Eigen AI</a>
+subtitle: 申子琳 | PhD Student @ <a href='https://www.cs.purdue.edu/'>Purdue CS</a> | Founding Engineer @ <a href='https://eigen.ai/'>Eigen AI</a>
 
 profile:
   align: right
