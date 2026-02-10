@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 申子琳 | PhD Candidate @ <a href='https://www.cs.purdue.edu/'>Purdue CS</a> | Founding Engineer @ <a href='https://eigen.ai/'>Eigen AI</a>
+subtitle: 申子琳 | PhD Candidate @ <a href='https://www.cs.purdue.edu/'>Purdue CS</a> | Founding Engineer @ <a href='https://www.eigenai.com/'>Eigen AI</a>
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
 
 I am a Ph.D. candidate in [Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Elisa Bertino](https://www.cs.purdue.edu/homes/bertino/). My research focuses on **protocol security**, **formal verification**, and **LLM security**.
 
-I am also a **Founding Engineer** at [Eigen AI](https://eigen.ai/), where I work on LLM infrastructure, including serving optimization, CUDA kernel development, and production deployment.
+I am also a **Founding Engineer** at [Eigen AI](https://www.eigenai.com/), where I work on LLM infrastructure, including serving optimization, CUDA kernel development, and production deployment.
 
 Previously, I received my B.E. from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022.
 
@@ -33,7 +33,7 @@ Previously, I received my B.E. from [Tsinghua University](https://www.tsinghua.e
 
 ## Experience
 
-- **Founding Engineer**, [Eigen AI](https://eigen.ai/), Aug 2024 - Present
+- **Founding Engineer**, [Eigen AI](https://www.eigenai.com/), Aug 2024 - Present
   - LLM serving infrastructure and optimization
   - CUDA kernel development (FP4 Attention for B200)
   - Production deployment with Kubernetes and Kong Gateway
