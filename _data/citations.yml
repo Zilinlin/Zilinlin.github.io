@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-18'
 papers:
   yyC5CZgAAAAJ:4TOpqqG69KYC:
     citations: 0
@@ -30,6 +30,6 @@ papers:
     title: 'WCDCAnalyzer: Scalable Security Analysis of Wi-Fi Certified Device Connectivity Protocols'
     year: Unknown Year
   yyC5CZgAAAAJ:u5HHmVD_uO8C:
-    citations: 67
+    citations: 68
     title: Combating link dynamics for reliable lora connection in urban settings
     year: '2021'
