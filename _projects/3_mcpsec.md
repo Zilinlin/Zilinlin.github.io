@@ -5,6 +5,8 @@ description: Formal verification and security analysis of the Model Context Prot
 img:
 importance: 3
 category: AI Security
+# Restore after disclosure and public release of the paper.
+published: false
 ---
 
 The first **ProVerif-based formal security model** of the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), along with practical attack implementations that validate the formal findings on real MCP environments.
