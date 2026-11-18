@@ -74,11 +74,6 @@ ninja.data = [{
           description: "Porting SageAttention3&#39;s FP4 attention from SM120 (B300) to SM100 (B200)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_fp4_attention/";
-            },},{id: "projects-mcpsec",
-          title: 'MCPSec',
-          description: "Formal verification and security analysis of the Model Context Protocol",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_mcpsec/";
             },},{id: "projects-llm-production-deployment",
           title: 'LLM Production Deployment',
           description: "End-to-end LLM serving infrastructure with Kubernetes and Kong Gateway",
